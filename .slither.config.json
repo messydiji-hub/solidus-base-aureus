@@ -1,0 +1,15 @@
+{
+  "detectors_to_exclude": [
+    "naming-convention",
+    "pragma-solidity",
+    "solc-version"
+  ],
+  "exclude_informational": false,
+  "exclude_low": false,
+  "exclude_medium": false,
+  "exclude_high": false,
+  "filter_paths": "(mocks/|test/|node_modules/)",
+  "solc_remaps": [
+    "@openzeppelin/=node_modules/@openzeppelin/"
+  ]
+}
