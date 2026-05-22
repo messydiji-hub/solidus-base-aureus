@@ -13,6 +13,13 @@ Named after the Roman gold coin, Aureus represents value generation through DeFi
 - **AureusVesting** — Token vesting with cliff and linear release
 - **AureusAirdrop** — Merkle-based airdrop distribution
 - **AureusTreasury** — Multi-asset treasury management
+- **AureusFactory** — One-click protocol deployment
+- **AureusMath** — Precision math library (WAD, mulDiv, clamp)
+
+## Docs
+
+- [DEPLOYING.md](./DEPLOYING.md) — Deployment guide
+- [TESTING.md](./TESTING.md) — How to run tests
 
 ## Setup
 
